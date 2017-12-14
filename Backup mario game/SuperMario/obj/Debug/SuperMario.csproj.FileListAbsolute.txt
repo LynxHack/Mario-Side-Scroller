@@ -1,0 +1,20 @@
+C:\Users\Nullcaster\source\repos\SuperMario\SuperMario\bin\Debug\SuperMario.exe.config
+C:\Users\Nullcaster\source\repos\SuperMario\SuperMario\bin\Debug\SuperMario.exe
+C:\Users\Nullcaster\source\repos\SuperMario\SuperMario\bin\Debug\SuperMario.pdb
+C:\Users\Nullcaster\source\repos\SuperMario\SuperMario\obj\Debug\SuperMario.csprojResolveAssemblyReference.cache
+C:\Users\Nullcaster\source\repos\SuperMario\SuperMario\obj\Debug\SuperMario.Properties.Resources.resources
+C:\Users\Nullcaster\source\repos\SuperMario\SuperMario\obj\Debug\SuperMario.csproj.GenerateResource.Cache
+C:\Users\Nullcaster\source\repos\SuperMario\SuperMario\obj\Debug\SuperMario.csproj.CoreCompileInputs.cache
+C:\Users\Nullcaster\source\repos\SuperMario\SuperMario\obj\Debug\SuperMario.exe
+C:\Users\Nullcaster\source\repos\SuperMario\SuperMario\obj\Debug\SuperMario.pdb
+C:\Users\Nullcaster\source\repos\SuperMario\SuperMario\obj\Debug\SuperMario.MainWorld.resources
+C:\Users\Nullcaster\Desktop\irrelevant\423 Labs\Mech 423\Backup mario game\SuperMario\bin\Debug\SuperMario.exe.config
+C:\Users\Nullcaster\Desktop\irrelevant\423 Labs\Mech 423\Backup mario game\SuperMario\bin\Debug\SuperMario.exe
+C:\Users\Nullcaster\Desktop\irrelevant\423 Labs\Mech 423\Backup mario game\SuperMario\bin\Debug\SuperMario.pdb
+C:\Users\Nullcaster\Desktop\irrelevant\423 Labs\Mech 423\Backup mario game\SuperMario\obj\Debug\SuperMario.csprojResolveAssemblyReference.cache
+C:\Users\Nullcaster\Desktop\irrelevant\423 Labs\Mech 423\Backup mario game\SuperMario\obj\Debug\SuperMario.MainWorld.resources
+C:\Users\Nullcaster\Desktop\irrelevant\423 Labs\Mech 423\Backup mario game\SuperMario\obj\Debug\SuperMario.Properties.Resources.resources
+C:\Users\Nullcaster\Desktop\irrelevant\423 Labs\Mech 423\Backup mario game\SuperMario\obj\Debug\SuperMario.csproj.GenerateResource.Cache
+C:\Users\Nullcaster\Desktop\irrelevant\423 Labs\Mech 423\Backup mario game\SuperMario\obj\Debug\SuperMario.csproj.CoreCompileInputs.cache
+C:\Users\Nullcaster\Desktop\irrelevant\423 Labs\Mech 423\Backup mario game\SuperMario\obj\Debug\SuperMario.exe
+C:\Users\Nullcaster\Desktop\irrelevant\423 Labs\Mech 423\Backup mario game\SuperMario\obj\Debug\SuperMario.pdb
